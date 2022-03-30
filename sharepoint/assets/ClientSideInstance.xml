@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="RemoveSharepointBaggage"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="1e75a43e-6945-4af5-90c3-4623ec439b55"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

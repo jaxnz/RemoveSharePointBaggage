@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "removesharepointbaggage",
+    "libraryId": "dde51133-7072-42b2-a16d-f6e396677556",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "removesharepointbaggage",
+    "solutionShortDescription": "removesharepointbaggage description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
